@@ -69,7 +69,7 @@ body {
 #maSection {
     border: 1px solid white;
     border-radius: 15px;
-    width: 50%;
+    width: 75%;
     margin-bottom: 1em;
     margin-left: auto;
     margin-right: auto;
@@ -81,7 +81,7 @@ body {
 #skillsSection {
     border: 1px solid white;
     border-radius: 15px;
-    width: 50%;
+    width: 75%;
     padding-bottom: 1em;
     margin-left: auto;
     margin-right: auto;
