@@ -127,6 +127,12 @@ footer {
     margin-top: 5%;
 }
 
+/* Secction avec mes contact */
+
+.social-card {
+    margin: 10vh auto 1vh auto;
+}
+
 /* Réseaux */
 
 .social-card {
