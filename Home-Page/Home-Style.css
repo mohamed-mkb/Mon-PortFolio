@@ -2,9 +2,17 @@
 #navBar {
     background-color: black;
     color: white;
+    display: flex;
+    align-items: center;
 }
+
+/* Logo dans la barre de nav */
+#logo {
+    width: 10%;
+}
+
+/* Titre 'Mon PortFolio' dans la navBar */
 #navTitle {
     font-size: xx-large;
     font-family: cursive;
-    
 }
